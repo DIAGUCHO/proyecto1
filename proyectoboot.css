@@ -113,6 +113,13 @@ nav ul li a:hover {
 
 /* estilo de la blog inicio*/
 
+.productos-populares {
+    color: #fcfcff;
+    text-align: center;
+    margin-top: 100px;
+
+}
+
 
 .productos-populares h2{
     color: #fcfcff;
@@ -120,6 +127,9 @@ nav ul li a:hover {
     background-color: black;
 
 }
+
+
+
 .tienda {
     display: flex;
 }
@@ -132,7 +142,15 @@ nav ul li a:hover {
 
 .productos p{
     color: white;
+    text-align: center
 }
+
+.productos a{
+    color: white;
+    text-align: center
+}
+
+
 
 
 
